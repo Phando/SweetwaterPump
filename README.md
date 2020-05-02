@@ -38,7 +38,7 @@ Use the Serial Port Tool to set the device to use 915 as well as all your OTA va
 - Once uploaded press stop on the upgrade tool.
 - Upen the serial port tool again and see what your device is doing. 
 
-##Hardware
+## Hardware
 The device can use two sets of three consecutive pins. One set uses the 3.3v bus and the other uses 5.0v bus.
 As shipped, the device is set to use the 3.3v bus to conserve power.
 
